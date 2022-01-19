@@ -1,0 +1,61 @@
+confeiteira
+dalila ribeiro
+menu cardápio preços contato
+E que seja doce: o dia , a vida e a alma !
+Cardápio
+Doces
+brigadeiro
+beijinho
+cajuzinho
+bicho de pé
+olho de sogra
+doce de nozes
+
+Salgados
+coxinha
+bolinha de queijo
+bolinho de carne
+kibe
+risole de carne
+risole de queijo
+risole de presunto e queijo
+
+Festa
+bolo branco
+bolo de chocolate
+pacote doce
+brigadeiro
+beijinho
+cajuzinho
+bicho de pé
+olho de sogra
+doce de nozes
+
+Preços
+menu do dia !
+doce	valores
+brigadeiro
+beijinho
+bicho de pé	R$ 48,00 - cento
+cajuzinho
+doce de nozes
+olho de sogra	R$ 60,00 - cento
+salgados
+bolinho de carne
+bolinha de queijo
+coxinha
+risole de carne
+risole de queijo
+risole de presunto/queijo
+kibe	R$ 65,00 - cento (congelado)	R$ 80,00 - cento (frito)
+empada - palmito e frango
+esfiha - carne | frango | calabresa	R$ 80,00 - cento (frito)
+bares e lanchonetes
+salgados	valores
+coxinha
+risole de carne
+rislole de queijo
+risole de presunto e queijo
+kibe
+bolinho de carne	congelado
+médio R$ 1,70 | grande R$ 2,20
