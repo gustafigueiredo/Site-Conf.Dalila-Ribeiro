@@ -270,7 +270,7 @@ footer #email {
 
 	header{
 		background-color: var(--cor3);
-		background-image: url('/img/cake2_500px.jpg');
+		background-image: url('../img/cake2_500px.jpg');
 		background-position: top left;
 		background-size: cover;
 		background-repeat: no-repeat;
